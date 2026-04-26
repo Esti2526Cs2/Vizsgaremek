@@ -1,0 +1,319 @@
+/* ===== GLOBAL OVERRIDE ===== */
+/* Minden szöveg legyen fekete az Order felületen is */
+.order-delivery-container,
+.order-delivery-container p,
+.order-delivery-container h1,
+.order-delivery-container h2,
+.order-delivery-container h3,
+.order-delivery-container strong,
+.ready-item-row {
+  color: #000 !important;
+}
+
+/* ===== ÁTADÓ FELÜLET KONTAINER ===== */
+.order-delivery-container {
+  padding: 20px;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.order-delivery-container h1 {
+  text-align: center;
+  margin: 0 0 10px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff !important;
+}
+
+.order-delivery-container > h2 {
+  margin: 0 0 12px;
+  color: #fff !important;
+}
+
+.order-delivery-container p.empty-order-msg {
+  color: #fff !important;
+}
+
+.order-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  max-width: 1200px;
+  margin: 0 auto 16px;
+}
+
+.order-grid.single-item {
+  grid-template-columns: minmax(0, 700px);
+  justify-content: center;
+}
+
+/* ===== RENDELÉSKÁRTYÁK (KÉSZ) ===== */
+.ready-order-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  /* Zöld szegély, mert ezek már kész vannak */
+  border-left: 8px solid #4caf50; 
+  max-width: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.ready-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.ready-header h2 {
+  margin: 0;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.ready-status {
+  background: #e8f5e9;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  border: 1px solid #4caf50;
+}
+
+.ready-info p {
+  margin: 8px 0;
+  font-size: 18px;
+  overflow-wrap: anywhere;
+}
+
+.pickup-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff !important;
+  background: #0f766e;
+  margin: 0 0 8px;
+}
+
+/* ===== TÉTELEK LISTÁJA ===== */
+.ready-items {
+  background: #f9f9f9;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 8px;
+  border-left: 5px solid #2196f3;
+}
+
+.ready-item-row {
+  margin: 6px 0;
+  font-size: 17px;
+  font-weight: 500;
+  overflow-wrap: anywhere;
+}
+
+.item-toppings {
+  margin-top: 4px;
+  overflow-wrap: anywhere;
+}
+
+/* ===== SZŰRŐPANEL ===== */
+.order-filter-panel {
+  max-width: 900px;
+  margin: 30px auto 20px;
+  padding: 16px 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.order-filter-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.order-filter-row label {
+  font-weight: bold;
+}
+
+.order-filter-row input {
+  padding: 10px 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.received-order-card {
+  border-left-color: #9c27b0;
+}
+
+/* ===== ÁTADÁS GOMB ===== */
+.deliver-btn {
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  background: #2196f3; /* Kék gomb az átadáshoz */
+  transition: 0.2s;
+  margin-top: 10px;
+  box-shadow: 0 4px 0 #1976d2;
+}
+
+.deliver-btn:hover {
+  background: #1976d2;
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 #1565c0;
+}
+
+.deliver-btn:active {
+  transform: translateY(4px);
+  box-shadow: none;
+}
+
+.order-action-row {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.order-action-row .deliver-btn,
+.order-action-row .print-btn {
+  margin-top: 0;
+  flex: 1;
+}
+
+.print-btn {
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  background: #475569;
+  transition: 0.2s;
+  box-shadow: 0 4px 0 #334155;
+}
+
+.print-btn:hover {
+  background: #334155;
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 #1e293b;
+}
+
+.print-btn:active {
+  transform: translateY(4px);
+  box-shadow: none;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .order-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .order-delivery-container {
+    padding: 14px;
+  }
+
+  .order-delivery-container h1 {
+    font-size: 26px;
+    margin-bottom: 18px;
+  }
+
+  .ready-order-card {
+    padding: 14px;
+    margin-bottom: 16px;
+    border-left-width: 5px;
+  }
+
+  .ready-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .ready-header h2 {
+    font-size: 22px;
+  }
+
+  .ready-status {
+    font-size: 12px;
+  }
+
+  .ready-info p,
+  .ready-item-row {
+    font-size: 15px;
+  }
+
+  .ready-items {
+    padding: 12px;
+  }
+
+  .order-filter-panel {
+    margin: 20px auto 16px;
+    padding: 14px;
+  }
+
+  .order-filter-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .order-filter-row input {
+    width: 100%;
+  }
+  
+  .deliver-btn {
+    font-size: 18px;
+    padding: 13px;
+  }
+
+  .order-action-row {
+    flex-direction: column;
+  }
+
+  .print-btn {
+    font-size: 17px;
+    padding: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .order-delivery-container {
+    padding: 10px;
+  }
+
+  .order-delivery-container h1 {
+    font-size: 22px;
+  }
+
+  .ready-order-card {
+    padding: 12px;
+  }
+
+  .deliver-btn {
+    font-size: 16px;
+  }
+
+  .print-btn {
+    font-size: 15px;
+  }
+}

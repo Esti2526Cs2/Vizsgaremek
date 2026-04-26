@@ -1,0 +1,2739 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "pizzaprojekt",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Feltetek": {
+      "get": {
+        "tags": [
+          "Feltetek"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Feltetek"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Feltetek/{id}": {
+      "get": {
+        "tags": [
+          "Feltetek"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Feltetek"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Feltetek"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.FeltetekOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Keri": {
+      "get": {
+        "tags": [
+          "Keri"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Keri"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Keri/{cimId}/{rendeloAzonosito}": {
+      "get": {
+        "tags": [
+          "Keri"
+        ],
+        "parameters": [
+          {
+            "name": "cimId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "rendeloAzonosito",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Keri"
+        ],
+        "parameters": [
+          {
+            "name": "cimId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "rendeloAzonosito",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KeriDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Keri"
+        ],
+        "parameters": [
+          {
+            "name": "cimId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "rendeloAzonosito",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/KiszalitasiHely": {
+      "get": {
+        "tags": [
+          "KiszalitasiHely"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "KiszalitasiHely"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/KiszalitasiHely/{id}": {
+      "get": {
+        "tags": [
+          "KiszalitasiHely"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "KiszalitasiHely"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "KiszalitasiHely"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.KiszallitasiHelyOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lead": {
+      "get": {
+        "tags": [
+          "Lead"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Lead"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Lead/{rendeloAzonosito}/{rendelesiId}": {
+      "get": {
+        "tags": [
+          "Lead"
+        ],
+        "parameters": [
+          {
+            "name": "rendeloAzonosito",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "rendelesiId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Lead"
+        ],
+        "parameters": [
+          {
+            "name": "rendeloAzonosito",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "rendelesiId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.LeadDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Lead"
+        ],
+        "parameters": [
+          {
+            "name": "rendeloAzonosito",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "rendelesiId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pizza/debug": {
+      "get": {
+        "tags": [
+          "Pizza"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pizza": {
+      "get": {
+        "tags": [
+          "Pizza"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Pizza"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Pizza/{id}": {
+      "get": {
+        "tags": [
+          "Pizza"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Pizza"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Pizza"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/PizzaFeltetek": {
+      "get": {
+        "tags": [
+          "PizzaFeltetek"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "PizzaFeltetek"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/PizzaFeltetek/{pizzaId}/{feltetId}": {
+      "get": {
+        "tags": [
+          "PizzaFeltetek"
+        ],
+        "parameters": [
+          {
+            "name": "pizzaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "feltetId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "PizzaFeltetek"
+        ],
+        "parameters": [
+          {
+            "name": "pizzaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "feltetId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.PizzaFeltetekDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "PizzaFeltetek"
+        ],
+        "parameters": [
+          {
+            "name": "pizzaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "feltetId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Rendeles": {
+      "get": {
+        "tags": [
+          "Rendeles"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Rendeles"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Rendeles/{id}": {
+      "get": {
+        "tags": [
+          "Rendeles"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Rendeles"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.RendelesController.RendelesDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Rendeles"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Rendeles"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Rendeles"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Rendeles"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/rendelesek": {
+      "get": {
+        "tags": [
+          "Rendelesek"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/rendelesek/{id}/status": {
+      "put": {
+        "tags": [
+          "Rendelesek"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.StatusUpdateDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.StatusUpdateDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.StatusUpdateDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/rendelesek/{id}/sutesiido": {
+      "put": {
+        "tags": [
+          "Rendelesek"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.BakeTimeDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.BakeTimeDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.BakeTimeDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tartalmaz": {
+      "get": {
+        "tags": [
+          "Tartalmaz"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Tartalmaz"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Tartalmaz"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Tartalmaz"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Tartalmaz"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tartalmaz/{rendelesId}/{pizzaId}": {
+      "get": {
+        "tags": [
+          "Tartalmaz"
+        ],
+        "parameters": [
+          {
+            "name": "rendelesId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "pizzaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Tartalmaz"
+        ],
+        "parameters": [
+          {
+            "name": "rendelesId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "pizzaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.TartalmazDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Tartalmaz"
+        ],
+        "parameters": [
+          {
+            "name": "rendelesId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "pizzaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Tartalmaz"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Tartalmaz"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Tartalmaz"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tartalmaz/savecomplex": {
+      "post": {
+        "tags": [
+          "Tartalmaz"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.ComplexSaveDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.ComplexSaveDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.ComplexSaveDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Vasarlo": {
+      "get": {
+        "tags": [
+          "Vasarlo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Vasarlo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Vasarlo/{id}": {
+      "get": {
+        "tags": [
+          "Vasarlo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloOutDTO"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Vasarlo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.VasarloDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Vasarlo"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Vasarlo"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Vasarlo"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Vasarlo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Vasarlo"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Vasarlo"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/pizzaprojekt.Models.Vasarlo"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "pizzaprojekt.Controllers.BakeTimeDto": {
+        "type": "object",
+        "properties": {
+          "sutesiIdo": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.FeltetekDTO": {
+        "required": [
+          "nev"
+        ],
+        "type": "object",
+        "properties": {
+          "nev": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "ar": {
+            "maximum": 10000,
+            "minimum": 1,
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.FeltetekOutDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nev": {
+            "type": "string",
+            "nullable": true
+          },
+          "ar": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.KeriDTO": {
+        "required": [
+          "cimId",
+          "rendeloAzonosito"
+        ],
+        "type": "object",
+        "properties": {
+          "cimId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.KeriOutDTO": {
+        "type": "object",
+        "properties": {
+          "cimId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.KiszallitasiHelyDTO": {
+        "required": [
+          "cim",
+          "hazszam",
+          "iranyito",
+          "utca",
+          "varos"
+        ],
+        "type": "object",
+        "properties": {
+          "cim": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "varos": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "iranyito": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "utca": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "hazszam": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "emeletajto": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.KiszallitasiHelyOutDTO": {
+        "type": "object",
+        "properties": {
+          "cim": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "varos": {
+            "type": "string",
+            "nullable": true
+          },
+          "iranyito": {
+            "type": "string",
+            "nullable": true
+          },
+          "utca": {
+            "type": "string",
+            "nullable": true
+          },
+          "hazszam": {
+            "type": "string",
+            "nullable": true
+          },
+          "emeletajto": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.LeadDTO": {
+        "required": [
+          "rendelesiId",
+          "rendeloAzonosito"
+        ],
+        "type": "object",
+        "properties": {
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rendelesiId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.LeadOutDTO": {
+        "type": "object",
+        "properties": {
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rendelesiId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.PizzaDTO": {
+        "required": [
+          "alap",
+          "nev"
+        ],
+        "type": "object",
+        "properties": {
+          "ar": {
+            "maximum": 100000,
+            "minimum": 1,
+            "type": "integer",
+            "format": "int32"
+          },
+          "nev": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "alap": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.PizzaFeltetekDTO": {
+        "required": [
+          "feltetId",
+          "pizzaId"
+        ],
+        "type": "object",
+        "properties": {
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "feltetId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.PizzaFeltetekOutDTO": {
+        "type": "object",
+        "properties": {
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "feltetId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.PizzaOutDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nev": {
+            "type": "string",
+            "nullable": true
+          },
+          "ar": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "alap": {
+            "type": "string",
+            "nullable": true
+          },
+          "image": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.RendelesController.RendelesDTO": {
+        "required": [
+          "datum",
+          "fizetesiMod",
+          "statusz",
+          "vasarloId"
+        ],
+        "type": "object",
+        "properties": {
+          "datum": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "statusz": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "fizetesiMod": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "vasarloId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.RendelesController.RendelesOutDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "datum": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fizetesiMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "statusz": {
+            "type": "string",
+            "nullable": true
+          },
+          "vasarloId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.StatusUpdateDto": {
+        "type": "object",
+        "properties": {
+          "statusz": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.ComplexSaveDTO": {
+        "required": [
+          "kiszallitasiHely",
+          "rendeles",
+          "tetelLista",
+          "vasarlo"
+        ],
+        "type": "object",
+        "properties": {
+          "vasarlo": {
+            "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.VasarloDTO"
+          },
+          "kiszallitasiHely": {
+            "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.KiszallitasiHelySaveDTO"
+          },
+          "rendeles": {
+            "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.RendelesSaveDTO"
+          },
+          "tetelLista": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/pizzaprojekt.Controllers.TartalmazController.RendelesTetelDTO"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.KiszallitasiHelySaveDTO": {
+        "type": "object",
+        "properties": {
+          "cimId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "varos": {
+            "type": "string",
+            "nullable": true
+          },
+          "iranyitoszam": {
+            "type": "string",
+            "nullable": true
+          },
+          "utca": {
+            "type": "string",
+            "nullable": true
+          },
+          "hazszam": {
+            "type": "string",
+            "nullable": true
+          },
+          "emeletAjto": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.RendelesSaveDTO": {
+        "required": [
+          "datum",
+          "fizetesiMod",
+          "statusz"
+        ],
+        "type": "object",
+        "properties": {
+          "datum": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "statusz": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "fizetesiMod": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.RendelesTetelDTO": {
+        "required": [
+          "mennyiseg",
+          "pizzaId"
+        ],
+        "type": "object",
+        "properties": {
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "mennyiseg": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.TartalmazDTO": {
+        "required": [
+          "pizzaId",
+          "rendelesId"
+        ],
+        "type": "object",
+        "properties": {
+          "rendelesId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.TartalmazOutDTO": {
+        "type": "object",
+        "properties": {
+          "rendelesId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.TartalmazController.VasarloDTO": {
+        "required": [
+          "nev"
+        ],
+        "type": "object",
+        "properties": {
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "nev": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "telefonszam": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.VasarloController.CimOutDTO": {
+        "type": "object",
+        "properties": {
+          "cimId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "varos": {
+            "type": "string",
+            "nullable": true
+          },
+          "iranyitoszam": {
+            "type": "string",
+            "nullable": true
+          },
+          "utca": {
+            "type": "string",
+            "nullable": true
+          },
+          "hazszam": {
+            "type": "string",
+            "nullable": true
+          },
+          "emeletAjto": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.VasarloController.VasarloDTO": {
+        "required": [
+          "nev"
+        ],
+        "type": "object",
+        "properties": {
+          "nev": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "telefonszam": {
+            "type": "string",
+            "format": "tel",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Controllers.VasarloController.VasarloOutDTO": {
+        "type": "object",
+        "properties": {
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nev": {
+            "type": "string",
+            "nullable": true
+          },
+          "telefonszam": {
+            "type": "string",
+            "nullable": true
+          },
+          "cim": {
+            "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.CimOutDTO"
+          },
+          "cimek": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/pizzaprojekt.Controllers.VasarloController.CimOutDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Models.Pizza": {
+        "type": "object",
+        "properties": {
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pizzaar": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nev": {
+            "type": "string",
+            "nullable": true
+          },
+          "alap": {
+            "type": "string",
+            "nullable": true
+          },
+          "image": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Models.Rendeles": {
+        "type": "object",
+        "properties": {
+          "rendelesId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "mennyiseg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "datum": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fizetesMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "statusz": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Models.Tartalmaz": {
+        "type": "object",
+        "properties": {
+          "rendelesId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rendeles": {
+            "$ref": "#/components/schemas/pizzaprojekt.Models.Rendeles"
+          },
+          "pizzaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pizza": {
+            "$ref": "#/components/schemas/pizzaprojekt.Models.Pizza"
+          }
+        },
+        "additionalProperties": false
+      },
+      "pizzaprojekt.Models.Vasarlo": {
+        "required": [
+          "nev"
+        ],
+        "type": "object",
+        "properties": {
+          "rendeloAzonosito": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nev": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "telefonszam": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Feltetek"
+    },
+    {
+      "name": "Keri"
+    },
+    {
+      "name": "KiszalitasiHely"
+    },
+    {
+      "name": "Lead"
+    },
+    {
+      "name": "Pizza"
+    },
+    {
+      "name": "PizzaFeltetek"
+    },
+    {
+      "name": "Rendeles"
+    },
+    {
+      "name": "Rendelesek"
+    },
+    {
+      "name": "Tartalmaz"
+    },
+    {
+      "name": "Vasarlo"
+    }
+  ]
+}

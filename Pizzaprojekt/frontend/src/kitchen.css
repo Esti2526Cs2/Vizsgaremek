@@ -1,0 +1,481 @@
+/* ===== GLOBAL OVERRIDE ===== */
+/* Ezek felülírják a dark mode / global CSS-t */
+
+
+/* Minden szöveg legyen fekete */
+.kitchen-container,
+.kitchen-container p,
+.kitchen-container h1,
+.kitchen-container h2,
+.kitchen-container h3,
+.kitchen-container h4,
+.kitchen-container strong {
+  color: #000 !important;
+}
+
+/* ===== KONYHAI FELÜLET ===== */
+
+.kitchen-container {
+  padding: 20px;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.kitchen-container h1 {
+  text-align: center;
+  margin: 0 0 10px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.kitchen-header h1 {
+  color: #fff !important;
+}
+
+.order-count {
+  color: #fff !important;
+}
+
+.empty-msg {
+  color: #fff !important;
+}
+
+.kitchen-header {
+  margin-bottom: 8px;
+}
+
+.kitchen-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+
+.kitchen-filter-bar {
+  width: fit-content;
+  max-width: min(100%, 900px);
+  margin: 0 auto 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff;
+  padding: 14px 16px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.filter-label {
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.filter-button-group {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.filter-btn {
+  padding: 10px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 999px;
+  background: #f8fafc;
+  color: #1f2937;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.filter-btn:hover {
+  background: #e2e8f0;
+}
+
+.filter-btn.active {
+  color: #fff;
+}
+
+.filter-mai.active {
+  background: #0f766e;
+  border-color: #0f766e;
+}
+
+.filter-összes.active {
+  background: #475569;
+  border-color: #475569;
+}
+
+.filter-folyamatban.active {
+  background: #f59e0b;
+  border-color: #f59e0b;
+}
+
+.filter-sütés-alatt.active {
+  background: #ef4444;
+  border-color: #ef4444;
+}
+
+.filter-kész.active {
+  background: #22c55e;
+  border-color: #22c55e;
+}
+
+.filter-átvehető.active {
+  background: #0ea5e9;
+  border-color: #0ea5e9;
+}
+
+/* ===== RENDELÉSKÁRTYÁK ===== */
+
+.kitchen-order-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  border-left: 8px solid #ff9800;
+  width: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.kitchen-items-box {
+  min-width: 0;
+}
+
+.kitchen-item-row {
+  padding: 10px 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.kitchen-item-row:last-child {
+  border-bottom: none;
+}
+
+.item-main {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  width: 100%;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.qty {
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.name,
+.item-toppings,
+.ready-text,
+.order-clock,
+.order-number {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.name {
+  font-size: 19px;
+  font-weight: 800;
+}
+
+.item-toppings {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  flex: 1 1 100%;
+  font-size: 16px;
+  font-weight: 700;
+  color: #111827;
+}
+
+.kitchen-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: auto;
+  min-height: 150px;
+}
+
+.btn-start-baking,
+.btn-complete {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.btn-start-baking {
+  background: #f97316;
+  color: #fff;
+}
+
+.btn-complete {
+  background: #16a34a;
+  color: #fff;
+}
+
+.order-info-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 700;
+  background: #e2e8f0;
+}
+
+.pickup-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff !important;
+  background: #0f766e;
+}
+
+.kitchen-order-card h2 {
+  margin-top: 0;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.kitchen-order-card p {
+  margin: 6px 0;
+  font-size: 18px;
+}
+
+/* ===== TÉTELEK ===== */
+
+.kitchen-item {
+  background: #f0f0f0;
+  padding: 12px;
+  margin: 12px 0;
+  border-radius: 8px;
+  border-left: 5px solid #2196f3;
+}
+
+.kitchen-item p {
+  margin: 4px 0;
+  font-size: 17px;
+}
+
+/* ===== GOMBOK ===== */
+
+.kitchen-buttons {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.kitchen-buttons h4 {
+  width: 100%;
+  margin: 15px 0 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.kitchen-buttons button {
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+  transition: 0.2s;
+  flex: 1 1 150px;
+  min-width: 150px;
+  font-weight: bold;
+}
+
+/* ===== GOMB SZÍNEK ===== */
+
+button.bake {
+  background: #607d8b;
+}
+
+button.bake:hover {
+  background: #455a64;
+}
+
+button.status-sutes {
+  background: #ff9800;
+}
+
+button.status-sutes:hover {
+  background: #e68900;
+}
+
+button.status-kesz {
+  background: #4caf50;
+}
+
+button.status-kesz:hover {
+  background: #3d8b40;
+}
+
+button.status-atveheto {
+  background: #2196f3;
+}
+
+button.status-atveheto:hover {
+  background: #1976d2;
+}
+
+.btn-instant-ready {
+  width: 100%;
+  padding: 14px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  background: #8e24aa;
+  transition: 0.2s;
+  margin-top: 10px;
+  box-shadow: 0 4px 0 #6a1b9a;
+}
+
+.btn-instant-ready:hover {
+  background: #7b1fa2;
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 #4a148c;
+}
+
+.btn-instant-ready:active {
+  transform: translateY(4px);
+  box-shadow: none;
+}
+
+/* ===== SELECTED GOMB ===== */
+
+button.selected {
+  border: 3px solid #000 !important;
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media (max-width: 1400px) {
+  .kitchen-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 1100px) {
+  .kitchen-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .kitchen-container {
+    padding: 14px;
+  }
+
+  .kitchen-container h1 {
+    font-size: 26px;
+    margin-bottom: 18px;
+  }
+
+  .kitchen-filter-bar {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 12px;
+  }
+
+  .filter-button-group {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .filter-btn {
+    width: 100%;
+    text-align: center;
+    padding: 10px 12px;
+  }
+
+  .kitchen-order-card {
+    padding: 14px;
+    border-left-width: 5px;
+  }
+
+  .kitchen-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .card-top {
+    align-items: flex-start;
+  }
+
+  .item-main {
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+  }
+
+  .live-timer {
+    font-size: 14px;
+  }
+
+  .kitchen-buttons {
+    flex-direction: column;
+  }
+
+  .kitchen-buttons button {
+    width: 100%;
+    min-width: unset;
+  }
+}
+
+@media (max-width: 480px) {
+  .filter-button-group {
+    grid-template-columns: 1fr;
+  }
+
+  .kitchen-container h1 {
+    font-size: 22px;
+  }
+
+  .kitchen-order-card {
+    padding: 12px;
+  }
+
+  .btn-start-baking,
+  .btn-complete,
+  .btn-instant-ready {
+    font-size: 15px;
+    padding: 12px;
+  }
+}

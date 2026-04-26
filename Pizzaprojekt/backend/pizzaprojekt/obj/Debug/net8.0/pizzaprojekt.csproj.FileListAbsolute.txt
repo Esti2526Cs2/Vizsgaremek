@@ -1,0 +1,762 @@
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\Jelencsics Bálint\Desktop\pizzaprojekt\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\Jelencsics Bálint\Desktop\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\kmarc\OneDrive\backAnd\Backend\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\1.0 Verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\2.0 Verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\3.0 verzió\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\4.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\5.0 verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\kmarc\OneDrive\Projektmunka\Kódok\Backend\6.0 verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.build.pizzaprojekt.props
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizzaprojekt.props
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizzaprojekt.props
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\tamas\Desktop\backend teszt\Backend\7.0 verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.build.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.0 verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.build.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.1 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\appsettings.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.staticwebassets.endpoints.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.exe
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.deps.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.runtimeconfig.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.AssemblyReference.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfoInputs.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.AssemblyInfo.cs
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.csproj.CoreCompileInputs.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\scopedcss\bundle\pizzaprojekt.styles.css
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.pizzaprojekt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.build.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pizzaprojekt.props
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzapro.1FF7F541.Up2Date
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\refint\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.pdb
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\pizzaprojekt.genruntimeconfig.cache
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\ref\pizzaprojekt.dll
+C:\Users\tamas\Desktop\kódok\Backend\8.8 verzio\pizzaprojekt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

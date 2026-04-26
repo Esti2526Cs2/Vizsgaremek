@@ -1,0 +1,528 @@
+/* --- ALAP BEÁLLÍTÁSOK --- */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+:root {
+  --main-nav-height: 76px;
+}
+
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  transition: 0.3s;
+}
+
+body.dimmed .app-shell {
+  filter: brightness(0.3);
+}
+
+.app-shell {
+  max-width: 1200px;
+  margin: 0 auto;
+  height: calc(100dvh - var(--main-nav-height));
+  min-height: calc(100dvh - var(--main-nav-height));
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow: hidden;
+}
+
+@supports not (height: 100dvh) {
+  .app-shell {
+    height: calc(100vh - var(--main-nav-height));
+    min-height: calc(100vh - var(--main-nav-height));
+  }
+}
+
+.topbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 40px;
+  padding: 0 8px;
+  color: #9ca3af;
+}
+
+.top-right-time {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* --- FŐ LAYOUT --- */
+.main-layout {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 2fr 1.4fr;
+  gap: 10px;
+  min-height: 0;
+}
+
+/* --- BAL OLDAL: PIZZALISTA --- */
+.menu-panel {
+  background: #020617;
+  border-radius: 24px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.menu-panel::-webkit-scrollbar {
+  display: none;
+}
+
+.pizza-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.pizza-card {
+  background: #020617;
+  border-radius: 18px;
+  overflow: hidden;
+  border: 1px solid #1f2937;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.pizza-card:hover {
+  transform: scale(1.02);
+  border-color: #e4e00e;
+}
+
+.pizza-card img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+}
+
+.pizza-info {
+  padding: 8px 10px;
+}
+
+.pizza-name {
+  margin: 0 0 4px;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.pizza-price {
+  margin: 6px 0 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #22c55e;
+}
+
+/* --- JOBB OLDAL: RENDELÉS PANEL --- */
+.order-panel {
+  background: #020617;
+  border-radius: 24px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  height: 100%;
+  overflow: hidden;
+  min-height: 0;
+}
+
+.order-scroll-area {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-right: 4px;
+}
+
+.order-header {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.order-title { margin: 0; font-size: 1rem; font-weight: 600; }
+.order-subtitle { margin: 0; font-size: 0.8rem; color: #9ca3af; }
+
+.order-status {
+  background: #111827;
+  border: 1px dashed #374151;
+  padding: 10px 15px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.order-status strong {
+  color: #22c55e;
+  text-transform: uppercase;
+}
+
+/* --- KREATÍV VEVŐI ADATOK (IKONOKKAL) --- */
+.customer-details {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  background: #020617;
+  padding: 12px;
+  border-radius: 18px;
+  border: 1px solid #1f2937;
+}
+
+.customer-details input, 
+.customer-details select {
+  width: 100%;
+  padding: 10px 12px 10px 40px; /* Bal oldalon hely az ikonnak */
+  background: #111827;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  color: #e5e7eb;
+  font-size: 0.85rem;
+  outline: none;
+  transition: 0.2s;
+  background-repeat: no-repeat;
+  background-position: 12px center;
+  background-size: 16px;
+}
+
+/* Rács elrendezés: Név, Város, Utca teljes szélesség */
+.customer-details input[placeholder="Név"],
+.customer-details input[placeholder="Város"],
+.customer-details input[placeholder="Utca"],
+.customer-details select {
+  grid-column: span 2;
+}
+
+/* Kreatív Ikonok SVG-vel */
+.customer-details input[placeholder="Név"] {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239ca3af' stroke-width='2'%3E%3Cpath d='M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2'/%3E%3Ccircle cx='12' cy='7' r='4'/%3E%3C/svg%3E");
+}
+
+.customer-details input[placeholder="Telefon"] {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239ca3af' stroke-width='2'%3E%3Cpath d='M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z'/%3E%3C/svg%3E");
+}
+
+.customer-details input[placeholder="Város"],
+.customer-details input[placeholder="Házszám"],
+.customer-details input[placeholder="Emelet/Ajtó"] {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239ca3af' stroke-width='2'%3E%3Cpath d='M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6'/%3E%3C/svg%3E");
+}
+
+.customer-details input[placeholder="Utca"] {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239ca3af' stroke-width='2'%3E%3Cpath d='M9 20l-5-2V4l5 2m0 14l6-2m-6 2V6m6 12l5 2V6l-5-2m0 14V4'/%3E%3C/svg%3E");
+}
+
+/* Fizetési mód sárgával és kártya ikonnal */
+.customer-details select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23e4e00e' stroke-width='2'%3E%3Crect x='1' y='4' width='22' height='16' rx='2' ry='2'/%3E%3Cline x1='1' y1='10' x2='23' y2='10'/%3E%3C/svg%3E");
+  color: #e4e00e;
+  font-weight: bold;
+  cursor: pointer;
+  appearance: none;
+}
+
+.customer-details input:focus {
+  border-color: #e4e00e;
+}
+
+/* --- RENDELÉSI TÉTELEK --- */
+.order-items {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.order-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: #020617;
+  border: 1px solid #1f2937;
+}
+
+.item-name { font-size: 1rem; min-width: 100px; font-weight: 700; }
+.item-toppings { font-size: 0.7rem; color: #fff; max-width: 150px; overflow-wrap: anywhere; font-weight: 400; }
+.order-panel .item-toppings {
+  color: #fff !important;
+  font-size: 0.9rem !important;
+  font-weight: 400 !important;
+}
+
+.item-qty-controls {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.qty-btn {
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  border: none;
+  background: #111827;
+  color: white;
+  cursor: pointer;
+}
+
+.qty-btn:hover { background: #374151; }
+
+.item-total { font-weight: bold; color: #e5e7eb; }
+
+/* --- LÁBÉR ÉS GOMBOK --- */
+.order-footer {
+  margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding-top: 6px;
+  border-top: 1px solid #1f2937;
+}
+
+.order-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.order-summary strong { font-size: 1.1rem; color: #22c55e; }
+
+.btn {
+  border-radius: 20px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.btn.ghost { background: transparent; color: #9ca3af; border: 1px solid #4b5563; }
+.btn.primary { background: #22c55e; color: #052e16; }
+.btn.primary2 { background: #e4e00e; color: #052e16; } /* CSAK PIZZA gomb */
+
+.btn:hover { filter: brightness(1.2); }
+
+/* --- POPUP (TOPPINGS) --- */
+.topping-screen {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.topping-screen.active { display: flex; }
+
+.topping-box {
+  width: 380px;
+  background: #1f2937;
+  padding: 24px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.topping-content {
+  max-height: 300px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 15px 0;
+}
+
+.topping-content label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.topping-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (max-width: 1024px) {
+  .app-shell {
+    height: auto;
+    min-height: calc(100dvh - var(--main-nav-height));
+    overflow: visible;
+  }
+
+  .main-layout {
+    height: auto;
+    grid-template-columns: 1fr;
+  }
+
+  .menu-panel,
+  .order-panel {
+    overflow: visible;
+  }
+
+  .order-scroll-area {
+    overflow: visible;
+    min-height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .app-shell {
+    padding: 12px;
+  }
+
+  .topbar {
+    justify-content: center;
+    padding: 0;
+  }
+
+  .pizza-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pizza-card img {
+    height: 170px;
+  }
+
+  .customer-details {
+    grid-template-columns: 1fr;
+    padding: 10px;
+  }
+
+  .customer-details input[placeholder="Név"],
+  .customer-details input[placeholder="Város"],
+  .customer-details input[placeholder="Utca"],
+  .customer-details select {
+    grid-column: span 1;
+  }
+
+  .order-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .item-name,
+  .item-toppings {
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .item-qty-controls {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .item-total {
+    width: 100%;
+  }
+
+  .order-footer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .order-actions {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .topping-box {
+    width: min(380px, calc(100vw - 24px));
+    padding: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  .app-shell {
+    padding: 10px;
+  }
+
+  .menu-panel,
+  .order-panel {
+    padding: 12px;
+    border-radius: 18px;
+  }
+
+  .pizza-card img {
+    height: 150px;
+  }
+
+  .customer-details input,
+  .customer-details select {
+    padding: 10px 12px 10px 38px;
+    font-size: 0.8rem;
+  }
+
+  .order-status,
+  .order-summary,
+  .top-right-time {
+    font-size: 0.8rem;
+  }
+}
+.kitchen-panel {
+  background: #020617;
+  padding: 20px;
+  border-radius: 24px;
+  border: 2px solid #334155;
+}
+
+.kitchen-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.kitchen-card {
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 15px;
+  border-left: 5px solid #e4e00e; /* Sárga jelzés az új rendelésnek */
+}
+
+.kitchen-card.baking {
+  border-left-color: #f97316; /* Narancs, ha sül */
+  animation: pulse 2s infinite;
+}
+
+.start-btn {
+  width: 100%;
+  margin-top: 15px;
+  background: #22c55e;
+  color: #052e16;
+  font-size: 1rem;
+  padding: 12px;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.8; }
+  100% { opacity: 1; }
+}

@@ -1,0 +1,1201 @@
+[
+  {
+    "ContainingType": "pizzaprojekt.Controllers.FeltetekController",
+    "Method": "Get",
+    "RelativePath": "api/Feltetek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.FeltetekOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.FeltetekController",
+    "Method": "Post",
+    "RelativePath": "api/Feltetek",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "feltetekDto",
+        "Type": "pizzaprojekt.Controllers.FeltetekDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.FeltetekOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.FeltetekController",
+    "Method": "Get",
+    "RelativePath": "api/Feltetek/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.FeltetekOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.FeltetekController",
+    "Method": "Put",
+    "RelativePath": "api/Feltetek/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "feltetekDTO",
+        "Type": "pizzaprojekt.Controllers.FeltetekDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.FeltetekOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.FeltetekController",
+    "Method": "Delete",
+    "RelativePath": "api/Feltetek/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.FeltetekOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KeriController",
+    "Method": "Get",
+    "RelativePath": "api/Keri",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.KeriOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KeriController",
+    "Method": "Post",
+    "RelativePath": "api/Keri",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.KeriDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.KeriOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KeriController",
+    "Method": "Get",
+    "RelativePath": "api/Keri/{cimId}/{rendeloAzonosito}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cimId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rendeloAzonosito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.KeriOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KeriController",
+    "Method": "Put",
+    "RelativePath": "api/Keri/{cimId}/{rendeloAzonosito}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cimId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rendeloAzonosito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.KeriDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KeriController",
+    "Method": "Delete",
+    "RelativePath": "api/Keri/{cimId}/{rendeloAzonosito}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cimId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rendeloAzonosito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KiszalitasiHelyController",
+    "Method": "Get",
+    "RelativePath": "api/KiszalitasiHely",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.KiszallitasiHelyOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KiszalitasiHelyController",
+    "Method": "Post",
+    "RelativePath": "api/KiszalitasiHely",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.KiszallitasiHelyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.KiszallitasiHelyOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KiszalitasiHelyController",
+    "Method": "Get",
+    "RelativePath": "api/KiszalitasiHely/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.KiszallitasiHelyOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KiszalitasiHelyController",
+    "Method": "Put",
+    "RelativePath": "api/KiszalitasiHely/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.KiszallitasiHelyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.KiszalitasiHelyController",
+    "Method": "Delete",
+    "RelativePath": "api/KiszalitasiHely/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.KiszallitasiHelyOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.LeadController",
+    "Method": "Get",
+    "RelativePath": "api/Lead",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.LeadOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.LeadController",
+    "Method": "Post",
+    "RelativePath": "api/Lead",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.LeadDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.LeadOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.LeadController",
+    "Method": "Get",
+    "RelativePath": "api/Lead/{rendeloAzonosito}/{rendelesiId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendeloAzonosito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rendelesiId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.LeadOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.LeadController",
+    "Method": "Put",
+    "RelativePath": "api/Lead/{rendeloAzonosito}/{rendelesiId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendeloAzonosito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rendelesiId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.LeadDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.LeadController",
+    "Method": "Delete",
+    "RelativePath": "api/Lead/{rendeloAzonosito}/{rendelesiId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendeloAzonosito",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rendelesiId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaController",
+    "Method": "Get",
+    "RelativePath": "api/Pizza",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.PizzaOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaController",
+    "Method": "Post",
+    "RelativePath": "api/Pizza",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pizzaDto",
+        "Type": "pizzaprojekt.Controllers.PizzaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.PizzaOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaController",
+    "Method": "Get",
+    "RelativePath": "api/Pizza/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.PizzaOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaController",
+    "Method": "Put",
+    "RelativePath": "api/Pizza/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pizzaDto",
+        "Type": "pizzaprojekt.Controllers.PizzaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaController",
+    "Method": "Delete",
+    "RelativePath": "api/Pizza/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaController",
+    "Method": "Debug",
+    "RelativePath": "api/Pizza/debug",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaFeltetekController",
+    "Method": "Get",
+    "RelativePath": "api/PizzaFeltetek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.PizzaFeltetekOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaFeltetekController",
+    "Method": "Post",
+    "RelativePath": "api/PizzaFeltetek",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.PizzaFeltetekDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.PizzaFeltetekOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaFeltetekController",
+    "Method": "Get",
+    "RelativePath": "api/PizzaFeltetek/{pizzaId}/{feltetId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "feltetId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.PizzaFeltetekOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaFeltetekController",
+    "Method": "Put",
+    "RelativePath": "api/PizzaFeltetek/{pizzaId}/{feltetId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "feltetId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.PizzaFeltetekDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.PizzaFeltetekController",
+    "Method": "Delete",
+    "RelativePath": "api/PizzaFeltetek/{pizzaId}/{feltetId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "feltetId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesController",
+    "Method": "Get",
+    "RelativePath": "api/Rendeles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.RendelesController\u002BRendelesOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesController",
+    "Method": "Post",
+    "RelativePath": "api/Rendeles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.RendelesController\u002BRendelesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.RendelesController\u002BRendelesOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesController",
+    "Method": "Get",
+    "RelativePath": "api/Rendeles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.RendelesController\u002BRendelesOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesController",
+    "Method": "Put",
+    "RelativePath": "api/Rendeles/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.RendelesController\u002BRendelesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesController",
+    "Method": "Delete",
+    "RelativePath": "api/Rendeles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Models.Rendeles",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesekController",
+    "Method": "GetOrders",
+    "RelativePath": "api/rendelesek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesekController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/rendelesek/{id}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "body",
+        "Type": "pizzaprojekt.Controllers.StatusUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.RendelesekController",
+    "Method": "SetBakeTime",
+    "RelativePath": "api/rendelesek/{id}/sutesiido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "body",
+        "Type": "pizzaprojekt.Controllers.BakeTimeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.TartalmazController",
+    "Method": "Get",
+    "RelativePath": "api/Tartalmaz",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.TartalmazController\u002BTartalmazOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.TartalmazController",
+    "Method": "Post",
+    "RelativePath": "api/Tartalmaz",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.TartalmazController\u002BTartalmazDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Models.Tartalmaz",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.TartalmazController",
+    "Method": "Get",
+    "RelativePath": "api/Tartalmaz/{rendelesId}/{pizzaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendelesId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.TartalmazController\u002BTartalmazOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.TartalmazController",
+    "Method": "Put",
+    "RelativePath": "api/Tartalmaz/{rendelesId}/{pizzaId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendelesId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.TartalmazController\u002BTartalmazDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.TartalmazController",
+    "Method": "Delete",
+    "RelativePath": "api/Tartalmaz/{rendelesId}/{pizzaId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendelesId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Models.Tartalmaz",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.TartalmazController",
+    "Method": "PostComplex",
+    "RelativePath": "api/Tartalmaz/savecomplex",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "pizzaprojekt.Controllers.TartalmazController\u002BComplexSaveDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.VasarloController",
+    "Method": "Get",
+    "RelativePath": "api/Vasarlo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[pizzaprojekt.Controllers.VasarloController\u002BVasarloOutDTO, pizzaprojekt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.VasarloController",
+    "Method": "Post",
+    "RelativePath": "api/Vasarlo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vasarloDto",
+        "Type": "pizzaprojekt.Controllers.VasarloController\u002BVasarloDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.VasarloController\u002BVasarloOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.VasarloController",
+    "Method": "Get",
+    "RelativePath": "api/Vasarlo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Controllers.VasarloController\u002BVasarloOutDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.VasarloController",
+    "Method": "Put",
+    "RelativePath": "api/Vasarlo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "vasarloDto",
+        "Type": "pizzaprojekt.Controllers.VasarloController\u002BVasarloDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Models.Vasarlo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "pizzaprojekt.Controllers.VasarloController",
+    "Method": "Delete",
+    "RelativePath": "api/Vasarlo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "pizzaprojekt.Models.Vasarlo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
